@@ -1,0 +1,28 @@
+.card-title{
+    width: 23vw;
+
+background: white;
+    font-size: 30px;
+    margin-left: 1.2vw;
+
+}
+.container .card-title p{
+    margin-left: 21vw;
+}
+.container .btn-dark{
+    width: 55px;
+    height: 55px;
+    margin: 3px;
+background:#807D78 ;
+}
+.container .card{
+    box-shadow: #4e555b 1px  1px 20px 0px;
+    background: #C2FF34;
+}
+.container .card-footer{
+    background: #F7F7F6;
+}
+.container .form-control{
+    width: 23vw;
+    height: 50px;
+}
